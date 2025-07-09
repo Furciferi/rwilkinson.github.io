@@ -12,7 +12,7 @@ I'm a research software Engineer at the university of Sussex. I work mainly in d
 - Compliance, Governance, Data Protection
 
 ## 📈 GitHub Stats
-![Reese Wilkinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=furciferi&show_icons=true&theme=radical)
+![Reese Wilkinson's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=furciferi&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furciferi&layout=compact&theme=radical)
+![Top Public Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furciferi&layout=compact&theme=radical)
